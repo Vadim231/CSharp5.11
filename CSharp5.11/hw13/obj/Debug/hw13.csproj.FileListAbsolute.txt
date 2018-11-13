@@ -1,0 +1,10 @@
+C:\Users\КуприенкоВ\Desktop\DoHomework5-master\race\hw13\bin\Debug\hw13.exe.config
+C:\Users\КуприенкоВ\Desktop\DoHomework5-master\race\hw13\bin\Debug\hw13.exe
+C:\Users\КуприенкоВ\Desktop\DoHomework5-master\race\hw13\bin\Debug\hw13.pdb
+C:\Users\КуприенкоВ\Desktop\DoHomework5-master\race\hw13\bin\Debug\ClassLibrary1.dll
+C:\Users\КуприенкоВ\Desktop\DoHomework5-master\race\hw13\bin\Debug\ClassLibrary1.pdb
+C:\Users\КуприенкоВ\Desktop\DoHomework5-master\race\hw13\obj\Debug\hw13.csprojAssemblyReference.cache
+C:\Users\КуприенкоВ\Desktop\DoHomework5-master\race\hw13\obj\Debug\hw13.csproj.CoreCompileInputs.cache
+C:\Users\КуприенкоВ\Desktop\DoHomework5-master\race\hw13\obj\Debug\hw13.csproj.CopyComplete
+C:\Users\КуприенкоВ\Desktop\DoHomework5-master\race\hw13\obj\Debug\hw13.exe
+C:\Users\КуприенкоВ\Desktop\DoHomework5-master\race\hw13\obj\Debug\hw13.pdb
